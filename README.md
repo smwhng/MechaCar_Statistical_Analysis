@@ -15,3 +15,6 @@
   ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/Total_summary.PNG)
   - For Lot 1 and Lot 2 the variance of suspension coils doens not exceed 100 PSI and passes design specifications. However, the variance of suspension coils for Lot 3 does exceed 100 PSI at 170.28 PSI and therefore fails design specifications. (Reference image below) <br/>
   ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/Lot_summary.PNG)
+ 
+ ## T-Tests on Suspension Coils
+ 
