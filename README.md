@@ -17,4 +17,13 @@
   ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/Lot_summary.PNG)
  
  ## T-Tests on Suspension Coils
- 
+ - All lots
+  - For all of the lots, with a p-value of 0.06 the null hypothesis is not rejected meaning the two means are statistically similar. (Reference image below) <br/>
+  ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/Total_ttest.PNG)
+  - For Lot 1, with a p-value of 1, the null hypothesis is not rejected meaning the two means are statistically similar. (Reference image below) <br/>
+  ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/lot1_ttest.PNG)
+  - For Lot 2, with a p-value of 0.6, the null hypothesis is not rejected meaning the two means are statistically similar. (Reference image below) <br/>
+  ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/lot2_ttest.PNG)
+  - For lot 3, with a p-value of 0.04, the null hypothesis is rejected meaning the two means are not statistically similar. (Reference image below) <br/>
+  ![This is an image](https://github.com/smwhng/MechaCar_Statistical_Analysis/blob/main/Images/lot3_ttest.PNG)
+
